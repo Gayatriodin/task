@@ -24,7 +24,7 @@ studentData.forEach(function(i){
  
 })
 
-console.log(sum)
+console.log(sum)  
 
 // Second Method
 
